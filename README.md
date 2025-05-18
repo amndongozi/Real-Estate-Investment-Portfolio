@@ -26,3 +26,5 @@ I designed this Power BI dashboard to visualize portfolio performance and foreca
 
 
 ![image](https://github.com/user-attachments/assets/5715fe17-3b39-42ae-b159-e97da294b59e)
+
+📌 *Dashboard built in Power BI using proprietary data (not shared). Visuals provided for demonstration purposes only.*
